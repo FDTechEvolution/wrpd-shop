@@ -82,10 +82,17 @@ img.logo{
 }
 
 /*product view*/
+.navigator-view-product{
+    margin-bottom: 10px;
+}
+.p-indent{
+    text-indent: 40px;
+}
 .gallery-wrap .img-big-wrap {
     margin-bottom: 10px;
     overflow: hidden;
     background-color: #fff;
+    margin-top: 15%;
 }
 .rating-stars {
     margin-right: 10px;

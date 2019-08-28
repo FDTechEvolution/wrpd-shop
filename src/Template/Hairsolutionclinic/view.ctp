@@ -1,4 +1,4 @@
-
+<nav class="navigator-view-product">Home / Hair Solution Clinic</nav>
 <div class="card">
 	<div class="row no-gutters">
 		<aside class="col-sm-5 border-right">
@@ -10,7 +10,7 @@
 		</aside>
 		<aside class="col-sm-7">
             <article class="p-5">
-                <h3 class="title mb-3">Original Version of Some product name</h3>
+                <h3 class="title mb-3">วิตามินกระตุ้นรากผม Multivitamin</h3>
 
             <div class="mb-3"> 
                 <var class="price h3 text-warning"> 
@@ -19,10 +19,11 @@
                 <span>/per kg</span> 
             </div> <!-- price-detail-wrap .// -->
             <dl>
-            <dt>Description</dt>
-            <dd><p>Here goes description consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco </p></dd>
+            <dt>รายละเอียด</dt>
+            <dd><p class="p-indent">“การรักษาผมร่วง ผมบาง ศรีษะล้าน ที่ได้ผลดีที่สุดคือ การรักษาหรือยืดอายุเซลล์รากผมไว้ให้ได้นานที่สุด 
+            ไม่ให้มันถูกทำลายจนหมด” โดยวิธีนี้จำเป็นต้องได้รับการรักษาแต่เนิ่นๆ ตั้งแต่มองเห็นอาการ</p></dd>
+            <dd><p class="p-indent">Multivitamin ไม่มีผลข้างเคียงใดๆต่อร่างกาย เนื่องจากเป็นสารสกัดจากธรรมชาติและเป็นวิตามินกลุ่มที่ละลายในน้ำ 
+            ไม่ละลายในไขมัน ร่างกายจึงสามารถขับวิตามินส่วนเกินออกจากร่างกายได้ง่าย โดยไม่สะสมในตับ</p></dd>
             </dl>
             <dl class="row">
             <dt class="col-sm-3">Model#</dt>
