@@ -21,15 +21,11 @@
 <div class="card">
     <div class="row no-gutters">
         <aside class="col-sm-5 border-right">
-            <article class="gallery-wrap"> 
-                <div class="img-big-wrap">
-                    <div><?= $this->Html->image('products/hsc/main_product-01.png'); ?></div>
-                </div>
-            </article>
+            <?= $this->Html->image('products/hsc/main_product-01.png',['class'=>'img-fluid']); ?>
         </aside>
         <aside class="col-sm-7">
             <article class="p-5">
-                <h3 class="title mb-3">วิตามินกระตุ้นรากผม Multivitamin</h3>
+                <h3 class="title mb-3 f-thai-srabun-500">วิตามินกระตุ้นรากผม Multivitamin</h3>
 
                 <div class="mb-3"> 
                     <var class="price h3 text-warning"> 

@@ -22,7 +22,9 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
         <title>WRPD - Shop</title>
         <?= $this->Html->meta('icon') ?>
 
+        
         <?= $this->Html->css('bootstrap.css') ?>
+        <?= $this->Html->css('thai-font.css') ?>
         <!-- Font awesome 5 -->
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.css" type="text/css" rel="stylesheet">
 

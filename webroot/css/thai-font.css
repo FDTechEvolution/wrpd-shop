@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 29, 2019, 7:23:52 PM
+    Author     : sakorn.s
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Sarabun:300,400,500,600,700&display=swap');
+
+.f-thai-srabun-300{
+    font-family: 'Sarabun', sans-serif !important;
+    font-weight: 300 !important;
+}
+.f-thai-srabun-400{
+    font-family: 'Sarabun', sans-serif !important;
+    font-weight: 400 !important;
+}
+.f-thai-srabun-500{
+    font-family: 'Sarabun', sans-serif !important;
+    font-weight: 500 !important;
+}
+.f-thai-srabun-600{
+    font-family: 'Sarabun', sans-serif !important;
+    font-weight: 600 !important;
+}
+.f-thai-srabun-700{
+    font-family: 'Sarabun', sans-serif !important;
+    font-weight: 700 !important;
+}
