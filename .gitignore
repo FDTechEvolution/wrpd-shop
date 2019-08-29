@@ -17,3 +17,4 @@
 # CakePHP 2
 
 /app/tmp/*
+/nbproject/private/

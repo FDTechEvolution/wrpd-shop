@@ -36,11 +36,11 @@
                         <p><strong>Phone :</strong> +123456789<br/>
                         <strong>Fax :</strong> +123456789</p>
                         <div class="btn-group white">
-                            <?= $this->Html->link('<i class="fa fa-facebook-f"></i>', ['url' => 'https://wwww.facebook.com'], ['class' => 'waves-effect waves-facebook', 'escape' => false]) ?>
-                            <?= $this->Html->link('<i class="fa fa-instagram"></i>', ['url' => 'https://wwww.facebook.com'], ['class' => 'waves-effect waves-instagram', 'escape' => false]) ?>
-                            <?= $this->Html->link('<i class="fa fa-youtube"></i>', ['url' => 'https://wwww.facebook.com'], ['class' => 'waves-effect waves-youtube', 'escape' => false]) ?>
-                            <?= $this->Html->link('<i class="fa fa-twitter"></i>', ['url' => 'https://wwww.facebook.com'], ['class' => 'waves-effect waves-twitter', 'escape' => false]) ?>
-                        </div>
+						    <a class="btn btn-facebook" title="Facebook" target="_blank" href="#"><i class="fab fa-facebook-f  fa-fw"></i></a>
+						    <a class="btn btn-instagram" title="Instagram" target="_blank" href="#"><i class="fab fa-instagram  fa-fw"></i></a>
+						    <a class="btn btn-youtube" title="Youtube" target="_blank" href="#"><i class="fab fa-youtube  fa-fw"></i></a>
+						    <a class="btn btn-twitter" title="Twitter" target="_blank" href="#"><i class="fab fa-twitter  fa-fw"></i></a>
+						</div>
                 </aside>
             </div>
         </section>
