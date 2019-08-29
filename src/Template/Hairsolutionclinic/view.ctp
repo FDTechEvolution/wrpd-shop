@@ -87,8 +87,8 @@
                     </div> <!-- col.// -->
                 </div> <!-- row.// -->
                 <hr>
-                <a href="#" class="btn btn-primary"><i class="fa fa-envelope"></i> Contact Supplier </a>
-                <a href="#" class="btn btn-outline-primary"> Start Order </a>
+                <a href="#" class="btn btn-primary btn-custom"><i class="fa fa-envelope"></i> Contact Supplier </a>
+                <a href="#" class="btn btn-outline-primary btn-custom"> Start Order </a>
             </article> <!-- card-body.// -->
 		</aside> <!-- col.// -->
 	</div> <!-- row.// -->

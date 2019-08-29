@@ -2,7 +2,7 @@
 <div class="row">
     <div class="col-md-3">
         <figure class="card card-sm card-product">
-            <div class="img-wrap"> <?= $this->Html->link($this->Html->image("products/hsc/main_product-01.png", ["class" => "img-product"]), "/hairsolutionclinic/view", ["class" => "img-product-link", "escape" => false]); ?> </div>
+            <div class="img-wrap"> <?= $this->Html->link($this->Html->image("products/hsc/main_product-01.png", ["class" => "img-product"]), "/hairsolutionclinic", ["class" => "img-product-link", "escape" => false]); ?> </div>
             <figcaption class="info-wrap text-center">
                 <h6 class="title text-truncate"><?= $this->Html->link("Hair Solution Clinic", ["controller" => "hairsolutionclinic", "escape" => false]); ?></h6>
             </figcaption>
