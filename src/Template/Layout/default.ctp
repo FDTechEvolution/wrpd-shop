@@ -44,6 +44,9 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
         <?= $this->Html->script('/plugins/owlcarousel/owl.carousel.min.js') ?>
         <?= $this->Html->script('script.js') ?>
 
+        <!-- Custom js -->
+        <?= $this->Html->script('wrpd-custom.js') ?>
+
 
     </head>
     <body>
